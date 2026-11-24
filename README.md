@@ -1,13 +1,15 @@
 ## Good morning, good evening and good night 👋
-Carbon-based, water-cooled, ATP-powered *Homo Sapiens* for computational experiments, scientific utilities, questionable software projects and mysteriously reinvented wheels. Sometimes things might even actually work.  
+
+### Self-Hosted Small Biological Model
+Carbon-based, water-cooled, ATP-powered *Homo sapiens* for computational experiments, scientific utilities, questionable software projects and mysteriously reinvented wheels. Sometimes things might even actually work.  
 Currently fishing for shells in the unfathomable sea of code (and bugs, sometimes).
 
-### Technical skills
+### Technical Skills NOT Stacking up
 - Python: occasionally works
 - C++: occasionally compiles
 - Git: occasionally recoverable
 - Linux: enjoying penguin life
-- Biology: allegedly my major
+- Biology: allegedly my major, not necessarily
 - Guitar: technical (for real) finger motions
 - ???
 
@@ -16,6 +18,13 @@ Warning: Undefined Behavior
 
 ### Being Useless on GitHub
 [![Stationarios's GitHub stats](https://github-stats-extended.vercel.app/api?username=Stationarios)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Stationarios)](https://git.io/streak-stats)
+
+### Data Availability
+All underwhelming statistics above are organically produced.
+
+### Competing Interests
+The author has too many interests competing for limited computational resources.
 
 <!--
 **Stationarios/Stationarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
