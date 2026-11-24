@@ -1,5 +1,5 @@
 ## Good morning, good evening and good night 👋
-Carbon-based, water-cooled, ATP-powered *Homo Sapiens* for computational experiments, scientific utilities, questionable software projects and mysteriously reinvented wheels. Sometimes things might even actually work.
+Carbon-based, water-cooled, ATP-powered *Homo Sapiens* for computational experiments, scientific utilities, questionable software projects and mysteriously reinvented wheels. Sometimes things might even actually work.  
 Currently fishing for shells in the unfathomable sea of code (and bugs, sometimes).
 
 ### Technical skills
@@ -8,11 +8,14 @@ Currently fishing for shells in the unfathomable sea of code (and bugs, sometime
 - Git: occasionally recoverable
 - Linux: enjoying penguin life
 - Biology: allegedly my major
+- Guitar: technical (for real) finger motions
 - ???
 
 ### Current Status
 Warning: Undefined Behavior
 
+### Being Useless on GitHub
+[![Stationarios's GitHub stats](https://github-stats-extended.vercel.app/api?username=Stationarios)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Stationarios/Stationarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
